@@ -10,7 +10,8 @@ I build small projects that solve real problems — from IoT models to web apps.
 ---
 
 ### 🔧 Skills
-- **Languages:** C, C++, JavaScript, TypeScript  
+- **Languages:** C, C++, Java, JavaScript, TypeScript
+- DSA 
 - **Web:** React, Node.js, Express, HTML, CSS, Bootstrap  
 - **DB:** MongoDB  
 - **Cloud:** Basic AWS (EC2, S3, Elastic Beanstalk)  
